@@ -1,0 +1,4 @@
+21/10/2024, 00.14.15 - Mulai mengenkripsi file ./test.txt dengan password hash: 76549b827ec46e705fd03831813fa52172338f0dfcbd711ed44b81a96dac51c6
+21/10/2024, 00.14.15 - Error ketika mengenkripsi file: ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\task3\test.txt'
+21/10/2024, 00.14.38 - Mulai mendekripsi file ./test_encrypted.txt dengan password asli: myPassword
+21/10/2024, 00.14.38 - Error ketika mendekripsi file: ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\task3\test_encrypted.txt'
